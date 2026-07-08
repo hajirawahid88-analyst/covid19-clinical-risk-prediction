@@ -2,4 +2,3 @@ The original clinical dataset used in this research contains approximately 6,000
 
 Due to ethical and privacy restrictions, the original dataset cannot be shared publicly.
 
-A synthetic dataset will be provided in future updates for demonstration purposes.
