@@ -19,8 +19,8 @@ This project presents a machine learning pipeline for predicting clinical outcom
 The research was conducted using anonymized clinical data collected in collaboration with Rawalpindi Medical University.
 
 **Data sources included:**
-- Holy Family Hospital
-- Azad Jammu and Kashmir Health Department
+- Hospital Data
+- AJK Data
 
 The original dataset contains approximately 6,000 patient records.
 
