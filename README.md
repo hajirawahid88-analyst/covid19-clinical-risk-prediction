@@ -1,8 +1,6 @@
 ## Overview
 
-This project presents a machine learning pipeline for predicting clinical outcomes of COVID-19 patients using real-world healthcare data. The work was completed as part of my Master of Science in Computer Science (MSCS) at the National University of Sciences and Technology (NUST), Pakistan.
-
-The project focuses on developing accurate and interpretable machine learning models that can support healthcare professionals in early risk assessment and clinical decision-making.
+This project presents a machine learning pipeline for predicting clinical outcomes of COVID-19 patients using real-world healthcare data. The project focuses on developing accurate and interpretable machine learning models that can support healthcare professionals in early risk assessment and clinical decision-making.
 
 ---
 
